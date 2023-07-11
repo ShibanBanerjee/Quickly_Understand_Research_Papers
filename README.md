@@ -6,7 +6,7 @@ Tchnology reearch papers are coming out TOO DAMN FAST so we need a way to very q
 
 - `chat.py` - this file is a simple chatbot that will chat with you about the contents of `input.txt` (you can copy/paste anything into this text file). Very useful to quickly discuss papers. 
 - `generate_multiple_reports.py` - this will consume all PDFs in the `input/` folder and generate summaries in the `output/` folder. This is helpful for bulk processing such as for literature reviews. 
-- `render_report.py` - this will render all the reports in `output/` to a an *easier* to read file in `report.html`.
+- `render_report.py` - this will render all the reports in `output/` to a an *easier* to read file in `report.html` . 
 
 ## EXECUTIVE SUMMARY
 
